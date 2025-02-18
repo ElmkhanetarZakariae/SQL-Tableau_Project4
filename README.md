@@ -1,4 +1,4 @@
-# SQL/Tableau_Project3 - Check all my Interactive Tableau Visualisations in my Tableau Public Profile : / Zakariae Elmkhanetar
+# Check all my Interactive Tableau Visualisations in my Tableau Public Profile : / Zakariae Elmkhanetar
 # Bank Loan Dashboard
 # Project Overview
 This project is a Bank Loan Dashboard designed to analyze and visualize loan application data. The dashboard provides key insights into loan performance, including funded amounts, received amounts, loan status, interest rates, and borrower details. It helps financial institutions monitor loan trends and make data-driven decisions.
